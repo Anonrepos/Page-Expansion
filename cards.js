@@ -24,3 +24,4 @@ const onCardClick = async (e) => {
 
 };
 cards.forEach(card => card.addEventListener('click',onCardClick));
+!
